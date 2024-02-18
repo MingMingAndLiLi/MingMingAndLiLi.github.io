@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /
-title: "Ming Yan"
-excerpt: "😝<br><br><br><br>"
+title: "欢迎来到明明和莉莉的网站！"
+excerpt: "😍现在是求婚阶段！<br><br><br><br>"
 author_profile: true
 
 

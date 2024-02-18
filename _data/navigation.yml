@@ -3,8 +3,8 @@ main:
   # - title: "LiDAR Human"
   #   url: /lidarhuman/    
 
-  - title: "Publications"
-    url: /publication/
+  # - title: "Publications"
+  #   url: /publication/
 
   # - title: "Talks"
   #   url: /talks/    
