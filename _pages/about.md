@@ -15,10 +15,10 @@ header:
 
 redirect_from: 
   - /about/
-  - /yanmn/
+  - /MingMingAndLiLi/
   - /yanming/
   - /about.html
-  - /yanmn.html
+  - /MingMingAndLiLi.html
   - /yanming.html
 ---
 
