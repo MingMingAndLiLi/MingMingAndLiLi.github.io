@@ -47,7 +47,7 @@ box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  flo
 src="/images/MingMingLiLi_Life4.jpg" width="33.33%">
  <img style="border-radius: 1em;
 box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); " 
-src="/images/MingMingLiLi_Life5.jpg" width="33.33%">
+src="/images/MingMingLiLi_Life5.jpg" width="40%">
 
 
 
