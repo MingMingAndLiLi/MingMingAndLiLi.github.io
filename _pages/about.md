@@ -29,34 +29,34 @@ redirect_from:
 ### 2023.02 大年初四。明莉在明明家和进盆夫妇恰大餐
 
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  width=80%; " 
-src="/images/MingMingLiLi_Life1.jpg">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
+src="/images/MingMingLiLi_Life1.jpg" width="80%">
 
 ### 2023.02 还是大年初四。明莉和进盆夫妇带着小奶昔去厦大玩
 
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  width=80%; " 
-src="/images/MingMingLiLi_Life2.jpg">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); " 
+src="/images/MingMingLiLi_Life2.jpg" width="80%">
 
 ### 2023.02 大年初五，情人节哦！明莉一起约会！还凑齐了金银玉桂狗！
 
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  width=80%; " 
-src="/images/MingMingLiLi_Life3.jpg">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
+src="/images/MingMingLiLi_Life3.jpg" width="50%">
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  width=80%; " 
-src="/images/MingMingLiLi_Life4.jpg">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);   " 
+src="/images/MingMingLiLi_Life4.jpg" width="50%">
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  width=80%; " 
-src="/images/MingMingLiLi_Life5.jpg">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); " 
+src="/images/MingMingLiLi_Life5.jpg" width="50%">
 
 
 
 
 ## 祝看到这里的每个人都要狠狠幸福哦！！🥰 <br> -End-
  <img style="border-radius: 5em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  width=80%; " 
-src="/images/MingMingLiLi_Life6.jpg">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); " 
+src="/images/MingMingLiLi_Life6.jpg" width="50%">
 
 
 <br><br><br><br><br><br><br><br>
