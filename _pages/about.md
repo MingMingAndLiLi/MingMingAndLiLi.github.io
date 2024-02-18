@@ -45,20 +45,14 @@ src="/images/MingMingLiLi_Life2.jpg" width="50%">
 box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  float:left " 
 src="/images/MingMingLiLi_Life3.jpg" width="33%">
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);   float:left " 
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  float:left " 
 src="/images/MingMingLiLi_Life4.jpg" width="33%">
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);   float:left " 
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  float:left " 
 src="/images/MingMingLiLi_Life5.jpg" width="33%">
 
 
-<br><br><br>
 
-
-## 11祝看到这里的每个人都要狠狠幸福哦！！🥰
- <img style="border-radius: 5em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); " 
-src="/images/MingMingLiLi_Life6.jpg" width="50%">
 
 ##  -End-
 
