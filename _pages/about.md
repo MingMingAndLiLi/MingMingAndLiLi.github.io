@@ -22,10 +22,23 @@ redirect_from:
   - /yanming.html
 ---
 
+<br><br>
 
-今天先创建个基础网站，明天再完善8👻
+## 我们都干了啥捏
 
-祝看到这里的每个人都幸福哦！！🥰
+# 2023.02 大年初四。明莉在明明家和进盆夫妇恰大餐
+
+ <img style="border-radius: 1em;
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+src="/images/MingMingLiLi_Life1.jpg">
+
+
+
+
+
+
+祝看到这里的每个人都要狠狠幸福哦！！🥰
+
 
 
 
