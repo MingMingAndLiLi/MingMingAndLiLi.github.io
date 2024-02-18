@@ -36,19 +36,20 @@ src="/images/MingMingLiLi_Life1.jpg" width="80%">
 
  <img style="border-radius: 1em;
 box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); " 
-src="/images/MingMingLiLi_Life2.jpg" width="80%">
+src="/images/MingMingLiLi_Life2.jpg" width="50%">
 
 ### 2023.02 大年初五，情人节哦！明莉一起约会！还凑齐了金银玉桂狗！
 
+
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
-src="/images/MingMingLiLi_Life3.jpg" width="50%">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  float:left " 
+src="/images/MingMingLiLi_Life3.jpg" width="33%">
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);   " 
-src="/images/MingMingLiLi_Life4.jpg" width="50%">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);   float:left " 
+src="/images/MingMingLiLi_Life4.jpg" width="33%">
  <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); " 
-src="/images/MingMingLiLi_Life5.jpg" width="50%">
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);   float:left " 
+src="/images/MingMingLiLi_Life5.jpg" width="33%">
 
 
 
