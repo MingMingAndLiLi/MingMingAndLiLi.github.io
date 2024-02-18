@@ -22,7 +22,7 @@ redirect_from:
   - /yanming.html
 ---
 
-<br><br>
+<br>
 
 ## 2024年我们都干了啥捏
 
