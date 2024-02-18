@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming Yan"
-  avatar           : "ym_profile4.jpg"
-  bio              : "Ph.D. Candidate, Computer Science, XMU"
+  name             : "Pinzhen Ng & Ming Yan"
+  avatar           : "MingMingLiLi_logo.png"
+  bio              : "即将结婚的小情侣一对"
   location         : "Xiamen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=A63B-x8AAAAJ"
-  email            :  "yanmnn@stu.xmu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Ming-Yan-49"
+  googlescholar    : #"https://scholar.google.com/citations?hl=zh-CN&user=A63B-x8AAAAJ"
+  email            : #"yanmnn@stu.xmu.edu.cn"
+  researchgate     : #"https://www.researchgate.net/profile/Ming-Yan-49"
   uri              :
   bitbucket        :
   codepen          :
