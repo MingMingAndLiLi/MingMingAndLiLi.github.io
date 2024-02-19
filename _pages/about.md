@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "🎀欢迎来到明明和莉莉的求婚网站！"
+title: "🎀欢迎来明明和莉莉的求婚现场！"
 excerpt: "⏲时间：2024年3月9日<br>📍地点：康莱德38号码头自助餐厅<br>福建省厦门市思明区演武西路185号康莱德酒店38楼<br><br><br><br><br>"
 author_profile: true
 
