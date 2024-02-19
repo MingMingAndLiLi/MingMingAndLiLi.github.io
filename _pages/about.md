@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: "🎀欢迎来到明明和莉莉的求婚网站！"
-excerpt: "⏲时间：2024年3月9日<br>📍地点：康莱德38号码头自助餐厅<br>福建省厦门市思明区厌恶西路185号康莱德酒店38楼<br><br>"
+excerpt: "⏲时间：2024年3月9日<br>📍地点：康莱德38号码头自助餐厅<br>福建省厦门市思明区演武西路185号康莱德酒店38楼<br><br>"
 author_profile: true
 
 
@@ -23,6 +23,38 @@ redirect_from:
 ---
 
 <br>
+
+## 没有看错！明明要求婚了😎
+
+### 为了让大伙更自由地吃自己喜欢的菜式，这次选在了自助餐厅！
+
+ <img style="border-radius: 1em;
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
+src="/images/conrad_1.jpg" width="80%">
+
+### 🚗停车：导航到康莱德或者世茂的停车场都可以哦~
+
+ <img style="border-radius: 1em;
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
+src="/images/parking.jpg" width="80%">
+
+<br><br>
+
+# 流程安排：
+
+## 16:30 大伙到齐。因为还有个求婚仪式🌹，想早点开始
+
+## 17:00 大家一起合影吧！
+
+## 17:05 一起吃自助
+
+## 20:00 886
+
+
+
+
+<br><br><br><br>
+
 
 <!-- ## 2024年我们都干了啥捏
 
@@ -64,49 +96,6 @@ box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); "
 src="/images/MingMingLiLi_Life6.jpg" width="50%">
 
 ##  -End- -->
-
-## 没有看错！明明要求婚了😎
-
-### 为了让大伙更自由地吃自己喜欢的菜式，这次选在了自助餐厅！
-
- <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
-src="/images/conrad_1.jpg" width="80%">
-
-### 🚗停车：导航到康莱德或者世茂的停车场都可以哦~
-
- <img style="border-radius: 1em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
-src="/images/parking.jpg" width="80%">
-
-<br><br>
-
-# 流程安排：
-
-## 16:30 大伙到齐。因为还有个求婚仪式🌹，想早点开始
-
-## 17:00 大家一起合影吧！
-
-## 17:05 一起吃自助
-
-## 20:00 886
-
-
-
-
-<br><br><br><br>
-
-<!-- I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program. 
-
-My research interests focus on 3D Computer Vision, including LiDAR mapping, Scene-aware 4D human motion capturing and Human-scene interaction modeling. 
-My goal is to develop robust methods to perceive and understand human behavior in complex environments.
-
-Additionally, I am a huge fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. ([Outdoor CV](/outdoor))
-
-I'm always looking for adventure partners to explore new trails on science and mountain.
-Feel free to reach out to me for discussions or collaborations. -->
-
-
 
 
 <!-- ## Selected Publications
