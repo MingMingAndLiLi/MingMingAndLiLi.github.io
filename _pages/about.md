@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /
-title: "欢迎来到明明和莉莉的网站！"
-excerpt: "😍现在是求婚阶段！<br><br><br><br>"
+title: "🎀欢迎来到明明和莉莉的求婚网站！"
+excerpt: "⏲时间：2024年3月9日<br>📍地点：康莱德38号码头自助餐厅<br>福建省厦门市思明区厌恶西路185号康莱德酒店38楼<br><br>"
 author_profile: true
 
 
@@ -24,7 +24,7 @@ redirect_from:
 
 <br>
 
-## 2024年我们都干了啥捏
+<!-- ## 2024年我们都干了啥捏
 
 ### 2023.02 大年初四。明莉在明明家和进盆夫妇恰大餐
 
@@ -55,10 +55,7 @@ src="/images/MingMingLiLi_Life5.jpg" width="40%">
 ### emm等我更新8
 
 
-
 <br><br><br><br>
-
-
 
 ## 祝看到这里的每个人都要狠狠幸福哦！！🥰
 
@@ -66,7 +63,11 @@ src="/images/MingMingLiLi_Life5.jpg" width="40%">
 box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); " 
 src="/images/MingMingLiLi_Life6.jpg" width="50%">
 
-##  -End-
+##  -End- -->
+
+
+
+
 
 <br><br><br><br>
 
