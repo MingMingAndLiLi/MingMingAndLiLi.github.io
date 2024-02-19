@@ -6,8 +6,8 @@ main:
   # - title: "Publications"
   #   url: /publication/
 
-  - title: "日常"
-    url: /lifestyle/
+  # - title: "日常"
+  #   url: /lifestyle/
 
   # - title: "Talks"
   #   url: /talks/    
