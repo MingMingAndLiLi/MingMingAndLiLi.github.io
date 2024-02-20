@@ -9,7 +9,7 @@ author_profile: true
 
 header:
   # overlay_color: "#9EA0A3"
-  overlay_image: /images/MingMingLiLi_background.png
+  overlay_image: /images/zip/MingMingLiLi_background.png
   overlay_filter: rgba(0, 0, 0, 0.4)
   # tagline: "<br><br><br><br><br>"
 
@@ -30,13 +30,13 @@ redirect_from:
 
  <img style="border-radius: 1em;
 box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
-src="/images/conrad_1.jpg" width="80%">
+src="/images/zip/conrad_1.jpg" width="80%">
 
 ### 🚗停车：导航到康莱德或者世茂的停车场都可以哦~
 
  <img style="border-radius: 1em;
 box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);  " 
-src="/images/parking.jpg" width="80%">
+src="/images/zip/parking.jpg" width="80%">
 
 <br><br>
 
@@ -52,8 +52,7 @@ src="/images/parking.jpg" width="80%">
 
 
 
-
-<br><br><br><br>
+<br><br>
 
 
 <!-- ## 2024年我们都干了啥捏
